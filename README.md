@@ -1,16 +1,12 @@
-# todo_app
+# todo_app_screen_shots
+## The HomePage UI
+![localhost_53969_(iPhone XR)](https://github.com/divyanshu1810/todo_flutter/assets/91051053/febb8100-34a0-4d08-b255-e88503deae4f)
 
-A new Flutter project.
+## Mark a task as completed
+![localhost_53969_(iPhone XR) (1)](https://github.com/divyanshu1810/todo_flutter/assets/91051053/8f5c3e23-0a34-452f-afe4-ea2ecc3b1b13)
 
-## Getting Started
+## Add a new task
+![localhost_53969_(iPhone XR) (2)](https://github.com/divyanshu1810/todo_flutter/assets/91051053/d96edb6b-afc4-4c1e-817b-dceef8692c70)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Delete a task using slidable widget
+![localhost_53969_(iPhone XR) (3)](https://github.com/divyanshu1810/todo_flutter/assets/91051053/c1979ae4-c3cd-4425-a1cf-bfaea6829729)
